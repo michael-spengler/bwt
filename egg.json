@@ -1,0 +1,10 @@
+{
+    "name": "bwt",
+    "description": "Better Web Token - an iteration of web tokens with a bunch of improvements",
+    "homepage": "https://github.com/chiefbiiko/bwt",
+    "files": [
+    "./**/*.ts",
+    "README.md"
+    ],
+    "entry": "./mod.ts"
+}
